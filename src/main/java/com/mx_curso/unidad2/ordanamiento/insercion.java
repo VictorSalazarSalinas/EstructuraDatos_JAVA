@@ -1,4 +1,7 @@
 package com.mx_curso.unidad2.ordanamiento;
+
+import java.util.Arrays;
+
 public class insercion {
 
     // Función para mostrar el estado de la lista
@@ -32,4 +35,6 @@ public class insercion {
         // Mostrar el resultado final
         mostrarLista(arreglo, arreglo.length);
     }
+
+
 }
