@@ -56,7 +56,7 @@ public class Merje_sort {
 
     // Método principal (main)
     public static void main(String[] args) {
-        int[] numeros = {38, 27, 43, 3, 9, 82, 10};
+        int[] numeros = {3,2,1,2};
         int[] ordenados = mergeSort(numeros);
 
         System.out.print("Lista ordenada: ");
