@@ -6,7 +6,7 @@ public class seleccion {
 
     public static void main(String[] args) {
         // Lista con las puntuaciones de importancia
-        int[] importancias = {3,2,1,1};
+        int[] importancias = {8,5,12,1};
         System.out.println("Características no ordenadas:");
         System.out.println(Arrays.toString(importancias));
         int n = importancias.length;
