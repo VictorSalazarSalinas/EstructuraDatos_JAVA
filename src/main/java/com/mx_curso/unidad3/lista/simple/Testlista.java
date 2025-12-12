@@ -4,7 +4,7 @@ public class Testlista {
     public static void main(String[] args) {
         ListaCabeza lista = new ListaCabeza();
         System.out.println("insertar nuevos datos");
-
+        //c
         lista.insertarAlInicio(10);
         lista.insertarAlInicio(20);
         lista.insertarAlInicio(30);

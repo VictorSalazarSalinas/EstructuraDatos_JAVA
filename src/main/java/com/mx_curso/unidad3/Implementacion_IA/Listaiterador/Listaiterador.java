@@ -5,7 +5,7 @@ import java.util.ListIterator;
 
 public class Listaiterador {
     public static void main(String[] args) {
-
+        //c
         LinkedList<String> historial = new LinkedList<>();
 
         System.out.println("Iniciamos el historial de transacciones");

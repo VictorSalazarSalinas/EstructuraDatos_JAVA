@@ -4,7 +4,7 @@ public class simuladortps {
     public static void main(String[] args) {
         listaenlazada lista = new listaenlazada();
         listaenlazada.PilaListaEnlazada pila = lista.new PilaListaEnlazada();
-
+        //c
 
         pila.push("a");
         System.out.println("Inicio en a");

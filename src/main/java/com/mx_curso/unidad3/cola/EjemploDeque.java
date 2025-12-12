@@ -17,7 +17,7 @@ public class EjemploDeque {
         cola.add("elmento 3 ");
 
         System.out.println("  ");
-
+    //c
 
     }
 

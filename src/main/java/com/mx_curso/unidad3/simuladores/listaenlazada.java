@@ -10,7 +10,7 @@ public class listaenlazada {
             this.siguiente = null;
         }
     }
-
+    //c
     public class PilaListaEnlazada {
         private Nodo cima;
 

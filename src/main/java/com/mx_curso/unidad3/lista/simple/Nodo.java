@@ -1,5 +1,5 @@
 package com.mx_curso.unidad3.lista.simple;
-
+//c
 // Clase Nodo
 public class Nodo {
     int dato;          // almacena dato

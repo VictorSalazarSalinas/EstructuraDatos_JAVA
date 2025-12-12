@@ -21,7 +21,7 @@ public class EjemploDeque {
         System.out.println(segundo);
 
         System.out.println("contenido actual "+deque);
-
+//c
 
 
     }

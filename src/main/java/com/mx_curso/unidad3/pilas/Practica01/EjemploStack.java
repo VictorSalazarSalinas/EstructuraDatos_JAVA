@@ -13,7 +13,7 @@ public class EjemploStack {
 
         System.out.println("contenido de la pila " + stack);
 
-
+        //c
         int elemento = stack.pop();
 
         System.out.println("elemento " + elemento);
