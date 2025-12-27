@@ -31,7 +31,7 @@ public class quicksort {
 
     // Ejemplo de uso
     public static void main(String[] args) {
-        int[] arr = {3, 2, 1, 2};
+        int[] arr = {20,5,15,1,10};
         quickSort(arr, 0, arr.length - 1);
         System.out.print("Arreglo ordenado: ");
         for (int num : arr) {
